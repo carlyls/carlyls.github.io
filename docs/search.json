@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I have experience as a teaching assistant for graduate and undergraduate students. I am passionate about conveying statistical techniques to audiences with a variety of backgrounds. I like to emphasize application and collaboration when teaching new concepts."
+  },
+  {
+    "objectID": "teaching.html#graduate-courses",
+    "href": "teaching.html#graduate-courses",
+    "title": "Teaching",
+    "section": "Graduate Courses",
+    "text": "Graduate Courses\n\nStatistical Methods in Public Health I/II\nLead Teaching Assistant, Fall 2022 and Fall 2023\nTeaching Assistant, Fall 2021\nJohns Hopkins Bloomberg School of Public Health\nInstructors: Dr. Marie Diener-West and Dr. Karen Bandeen-Roche\nCourse description: Introduces the basic concepts and methods of statistics as applied to diverse problems in public health and medicine. Demonstrates methods of exploring, organizing, and presenting data, and introduces fundamentals of probability, including probability distributions and conditional probability, with applications to 2x2 tables. Presents the foundations of statistical inference, including concepts of population, sample parameter, and estimate; and approaches to inferences using the likelihood function, confidence intervals, and hypothesis tests. Introduces and employs the statistical computing package, STATA or R, to manipulate data and prepare students for remaining course work in this sequence.\n\n\nCausal Inference in Medicine and Public Health I\nTeaching Assistant, Spring 2022 and Spring 2023\nJohns Hopkins Bloomberg School of Public Health\nInstructor: Dr. Elizabeth Stuart\nCourse description: Presents an overview of methods for estimating causal effects: how to answer the question of “What is the effect of A on B?” Includes discussion of randomized designs, but with more emphasis on alternative designs for when randomization is infeasible: matching methods, propensity scores, regression discontinuity, and instrumental variables. Motivates methods by examples from the health sciences, particularly mental health and community or school-level interventions."
+  },
+  {
+    "objectID": "teaching.html#undergraduate-courses",
+    "href": "teaching.html#undergraduate-courses",
+    "title": "Teaching",
+    "section": "Undergraduate Courses",
+    "text": "Undergraduate Courses\n\nLeading Teams\nCourse Assistant, Fall 2018 - Spring 2020\nJohns Hopkins University\nInstructor: Dr. William Smedick\nCourse description: This course will allow students to develop the analytical skills needed to effectively lead and work in teams. Students will learn tools and techniques for problem solving, decision-making, conflict resolution, task management, communications, and goal alignment in team settings. They will also learn how to measure team dynamics and performance, and assess methods for building and sustaining high-performance teams. Students will also explore their own leadership, personality and cognitive styles and learn how these may affect their performance in a team. The course will focus on team-based experiential projects and exercises as well as provide opportunities to individually reflect and write about the concepts explored and skills gained throughout the course."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carly L. Brantner",
+    "section": "",
+    "text": "About Me\nI am an Assistant Professor in the Department of Biostatistics and Bioinformatics and the Duke Clinical Research Institute (DCRI) at Duke University. I graduated in the spring of 2024 with my PhD in Biostatistics from the Johns Hopkins Bloomberg School of Public Health, advised by Dr. Elizabeth Stuart. I am a methodological and applied biostatistician - my methods focuses are primarily causal inference, treatment effect heterogeneity, data integration/fusion, and machine learning, and my applied interests include women’s health, mental health, sport science, and aging.\n\n\n\nEducation\nPhD in Biostatistics\nJohns Hopkins Bloomberg School of Public Health\nGraduation: May 2024\nDissertation: Data Integration Approaches to Estimate Heterogeneous Treatment Effects\nAdvisor: Dr. Elizabeth A. Stuart\nMS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\nBS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Brantner CL, Chang TH, Nguyen TQ, Hong H, Stefano LD, Stuart EA. Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity. Stat Sci. 2023 Nov;38(4):640-654. https://doi.org/10.1214/23-sts890. Epub 2023 Nov 6. PMID: 38638306; PMCID: PMC11025720.\nBrantner CL, Nguyen TQ, Tang T, Zhao C, Hong H, Stuart EA. Comparison of methods that combine multiple randomized trials to estimate heterogeneous treatment effects. Stat Med. 2024 Mar 30;43(7):1291-1314. https://doi.org/10.1002/sim.9955. Epub 2024 Jan 25. PMID: 38273647; PMCID: PMC11086055.\nCode"
+  },
+  {
+    "objectID": "publications.html#female-health-and-performance",
+    "href": "publications.html#female-health-and-performance",
+    "title": "Publications",
+    "section": "Female Health and Performance",
+    "text": "Female Health and Performance\n\nMcNulty KL, Taim BC, Freemas JA, Hassan A, Brantner CL, Oleka CT, Scott D, Howatson G, Moore IS, Yung KK, Hicks KM, Whalan M, Lovell R, Moore SR, Russell S, Smith-Ryan AE, Bruinvels G. Research across the female lifecycle: Reframing the narrative for health and performance in athletic females and showcasing solutions to drive advancements in research and its translation. Women in Sport and Physical Activity Journal. In press."
+  },
+  {
+    "objectID": "publications.html#mental-health-analyses",
+    "href": "publications.html#mental-health-analyses",
+    "title": "Publications",
+    "section": "Mental Health Analyses",
+    "text": "Mental Health Analyses\n\nEttman CK, Brantner CL, Albert M, Goes FS, Mojtabai R, Spivak S, Stuart EA, Zandi PP. Trends in Telepsychiatry and In-Person Psychiatric Care for Depression in an Academic Health System, 2017-2022. Psychiatr Serv. 2024 Feb 1;75(2):178-181. https://doi.org/10.1176/appi.ps.20230064. Epub 2023 Aug 9. PMID: 37554006; PMCID: PMC10862532.\nLupton-Smith C, Stuart EA, McGinty EE, Dalcin AT, Jerome GJ, Wang NY, Daumit GL. Determining Predictors of Weight Loss in a Behavioral Intervention: A Case Study in the Use of Lasso Regression. Front Psychiatry. 2022 Feb 3;12:707707. https://doi.org/10.3389/fpsyt.2021.707707. PMID: 35185628; PMCID: PMC8850776."
+  },
+  {
+    "objectID": "publications.html#covid-19-projects",
+    "href": "publications.html#covid-19-projects",
+    "title": "Publications",
+    "section": "COVID-19 Projects",
+    "text": "COVID-19 Projects\n\nLupton-Smith C, Goicoechea EB, Collins M, Lessler J, Grabowski MK, Stuart EA. Consistency between Household and County Measures of Onsite Schooling during the COVID-19 Pandemic. J Res Educ Eff. 2023;16(3):419-441. https://doi.org/10.1080/19345747.2022.2131660. Epub 2022 Nov 1. PMID: 37605777; PMCID: PMC10441621.\nCode\nLupton-Smith C, Badillo-Goicochea E, Chang TH, Maniates H, Riehm KE, Schmid I, Stuart EA. Factors associated with county-level mental health during the COVID-19 pandemic. J Community Psychol. 2022 Jul;50(5):2431-2442. https://doi.org/10.1002/jcop.22785. Epub 2021 Dec 30. PMID: 34969152; PMCID: PMC9015572.\nRiehm, KE, Badillo-Goicoechea E, Wang FM, Kim E, Aldridge LR, Lupton-Smith C, Presskreischer R, Chang TH, LaRocca S, Kreuter F, Stuart EA. Association of Non-Pharmaceutical Interventions to Reduce the Spread of SARS-CoV-2 With Anxiety and Depressive Symptoms: A Multi-National Study of 43 Countries. Int J Public Health. 2022 Mar 3;67:1604430. https://doi.org/10.3389/ijph.2022.1604430. PMID: 35308051; PMCID: PMC8927027.\nLessler J, Grabowski MK, Grantz KH, Badillo-Goicoechea E, Metcalf CJE, Lupton-Smith C, Azman AS, Stuart EA. Household COVID-19 risk and in-person schooling. Science. 2021 Jun 4;372(6546):1092-1097. https://doi.org/10.1126/science.abh2939. Epub 2021 Apr 29. PMID: 33927057; PMCID: PMC8168618."
+  },
+  {
+    "objectID": "publications.html#other-substantive-projects",
+    "href": "publications.html#other-substantive-projects",
+    "title": "Publications",
+    "section": "Other Substantive Projects",
+    "text": "Other Substantive Projects\n\nNguyen TQ, Roberts Lavigne LC, Brantner CL, Kirk GD, Mehta SH, Linton SL. Estimation of place-based vulnerability scores for HIV viral non-suppression: an application leveraging data from a cohort of people with histories of using drugs. BMC Med Res Methodol. 2024 Jan 25;24(1):21. https://doi.org/10.1186/s12874-023-02133-x. PMID: 38273277; PMCID: PMC10809603.\nBrantner CL, Bentley JP, Roth DL. Subtypes of transitions into a family caregiving role: A latent class analysis. J Appl Gerontol. 2024 Apr;43(4):374-385. https://doi.org/10.1177/07334648231210680. Epub 2023 Nov 21. PMID: 37990505; PMCID: PMC10923009.\nOlsen AA, Brantner CL, Dallaghan GLB, McLaughlin JE. A review of interprofessional education research: Disciplines, authorship practices, research design, and dissemination trends. Journal of Interprof Educ Prac. 2023 May 16;32:100653. https://doi.org/10.1016/j.xjep.2023.100653\nFuller K, Lupton-Smith C, Hubal R, McLaughlin JE. Automated Analysis of Preceptor Comments: A Pilot Study Using Sentiment Analysis to Identify Potential Student Issues in Experiential Education. Am J Pharm Educ. 2023 Sep;87(9):100005. https://doi.org/10.1016/j.ajpe.2023.02.005. Epub 2023 Mar 15. PMID: 37714650.\nMcLaughlin JE, Lyons K, Lupton-Smith C, Fuller K. An introduction to text analytics for educators. Curr Pharm Teach Learn. 2022 Oct;14(10):1319-1325. https://doi.org/10.1016/j.cptl.2022.09.005. Epub 2022 Sep 15. PMID: 36280557; PMCID: PMC9904956.\nOlsen AA, Lupton-Smith C, Rodgers PT, McLaughlin JE. Characterizing Research About Interprofessional Education Within Pharmacy. Am J Pharm Educ. 2021 Sep;85(8):8541. https://doi.org/10.5688/ajpe8541. Epub 2021 Mar 12. PMID: 34615627; PMCID: PMC8500280.\nWolcott MD, Lupton-Smith C, Cox WC, McLaughlin JE. A Five-Minute Situational Judgment Test to Assess Empathy in First-Year Student Pharmacists. Am J Pharm Educ. 2019 Aug;83(6):6960. https://doi.org/10.5688/ajpe6960. PMID: 31507291; PMCID: PMC6718496.\nMcLaughlin JE, Lupton-Smith C, Wolcott MD. Text mining as a method for examining the alignment between educational outcomes and the workforce needs. Educ Health Prof. 2018 Jan;1(2):55-60. https://doi.org/10.4103/EHP.EHP_25_18."
+  },
+  {
+    "objectID": "involvement.html",
+    "href": "involvement.html",
+    "title": "Community",
+    "section": "",
+    "text": "I enjoy contributing to the broader biostatistical and health community. Please feel free to contact me if would like to learn more about any of the following roles or groups that I am a part of."
+  },
+  {
+    "objectID": "involvement.html#consulting-experience",
+    "href": "involvement.html#consulting-experience",
+    "title": "Community",
+    "section": "Consulting Experience",
+    "text": "Consulting Experience\n\nResearch Scientist (Epidemiology/Data Science), Kynisca Innovation Hub, 2023 – present"
+  },
+  {
+    "objectID": "involvement.html#leadership-roles",
+    "href": "involvement.html#leadership-roles",
+    "title": "Community",
+    "section": "Leadership Roles",
+    "text": "Leadership Roles\n\nCouncil of Emerging and New Statisticians (CENS) Member, ENAR of International Biometrics Society, 2023 – present\nCurrent Steering Committee Member\nCo-President, Biostatistics Student Organization, Johns Hopkins University, 2022 – 2024\nBiostatistics Department Representative, Mental Health Graduate Network, Johns Hopkins University, 2021 – 2024\nMentoring Committee and Curriculum Committee Member, Biostatistics Student Organization, Johns Hopkins University, 2020 – 2024\nTeam Captain, Varsity Women’s Soccer, Johns Hopkins University, 2019\nAssistant New Member Director, Phi Mu Gamma Tau Chapter, Johns Hopkins University, 2019\nCaptains Cohort Member, Blue Jays LEAD, Johns Hopkins University, Spring 2019 – 2020"
+  },
+  {
+    "objectID": "involvement.html#community-memberships",
+    "href": "involvement.html#community-memberships",
+    "title": "Community",
+    "section": "Community Memberships",
+    "text": "Community Memberships\n\nAmerican Statistical Association, 2022 — present\nInternational Biometrics Society, Eastern North American Region, 2022 -– present"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Brantner CL. January 6, 2025. Predicting heterogeneous treatment effects in electronic health records via data integration. International Conference on Health Policy Statistics (ICHPS). Part of invited session (organizer: Hong H): Challenges and Promises on Generalizability and Inference using Electronic Health Records.\nBrantner CL. October 18, 2024. Data integration approaches to estimate heterogeneous treatment effects. Women in Statistics and Data Science. Part of invited session (organizer: Lotspeich S): Cause for celebration: Adapting causal inference methods for challenging datasets.\nBrantner CL. March 10, 2024. Combining trials to estimate heterogeneous treatment effects in a target sample. Eastern North American Region (ENAR) International Biometrics Society. Part of invited session (organizer: Brantner CL): Integrating Data from Multiple Sources to Estimate Causal Effects.\nBrantner CL. February 23, 2024. Data integration approaches to estimate heterogeneous treatment effects. Invited presentation for Johns Hopkins Biostatistics Prospective PhD Student Visit Day.\nLupton-Smith C. January 24, 2022. Family caregiving subtypes and well-being in the Caregiving Transitions Study: A latent class analysis. Research in Progress presentation for Epidemiology and Biostatistics of Aging Training Group.\nLupton-Smith C. October 8, 2021. Factors associated with county-level mental health during the COVID-19 pandemic. Invited presentation for Johns Hopkins Biostatistics Virtual Prospective Student Event."
+  },
+  {
+    "objectID": "presentations.html#contributed-presentations",
+    "href": "presentations.html#contributed-presentations",
+    "title": "Talks",
+    "section": "Contributed Presentations",
+    "text": "Contributed Presentations\n\nBrantner CL. March 22, 2023. Combining datasets to estimate heterogeneous treatment effects. Eastern North American Region (ENAR) International Biometrics Society.\nBrantner CL. December 18, 2022.Combining datasets to estimate heterogeneous treatment effects. International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022).\nLupton-Smith C., Badillo Goicoechea E, Chang T, Stuart EA. October 7, 2021. Factors associated with county-level mental health during the COVID-19 pandemic. Women in Statistics and Data Science Conference."
+  },
+  {
+    "objectID": "presentations.html#podcasts",
+    "href": "presentations.html#podcasts",
+    "title": "Talks",
+    "section": "Podcasts",
+    "text": "Podcasts\n\nBrantner CL. May 30, 2022. School Reopening Analysis. Data Skeptic. https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis."
+  },
+  {
+    "objectID": "presentations.html#poster-presentations",
+    "href": "presentations.html#poster-presentations",
+    "title": "Talks",
+    "section": "Poster Presentations",
+    "text": "Poster Presentations\n\nEttman CK, Ringlein GV, Straub JL, Dohlman P, Brantner CL, Chin E, Badillo Goicoechea E, Sthapit S, Goes FS, Stuart EA, Zandi PP. (2024) Trends in the Use of Telehealth by Area Deprivation in a Large U.S. Academic Hospital. *Society for Epidemiologic Research Annual Meeting.\n\n\n*Recipient of Best Poster Award\n\nBrantner CL. (2023). Combining datasets to estimate heterogeneous treatment effects. American Causal Inference Conference.\nEttman CK, Brantner CL, Albert M, et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. Society for Epidemiologic Research.\nEttman CK, Brantner CL, Albert M, et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. AcademyHealth.\nEttman CK, Brantner CL, Albert M, et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. International Association for Population Health Sciences.\nBentley J, Lupton-Smith C, Roth D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. Gerontological Society of America.\nChang T, Lupton-Smith C, Badillo Goicoechea E, Stuart EA (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. American Psychopathological Association.\nMcLaughlin JE, Lupton-Smith C, Bell EL, Hubal R, Persky A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. American Association of Colleges of Pharmacy. \n*Recipient of AACP SAS Best Poster Award."
+  }
+]

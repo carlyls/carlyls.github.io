@@ -1,0 +1,50 @@
+---
+title: "Talks"
+editor: visual
+---
+
+## Invited Presentations
+
+1.  **Brantner CL.** January 6, 2025. Predicting heterogeneous treatment effects in electronic health records via data integration. International Conference on Health Policy Statistics (ICHPS). *Part of invited session (organizer: Hong H): Challenges and Promises on Generalizability and Inference using Electronic Health Records.*
+
+2.  **Brantner CL.** October 18, 2024. Data integration approaches to estimate heterogeneous treatment effects. Women in Statistics and Data Science. *Part of invited session (organizer: Lotspeich S): Cause for celebration: Adapting causal inference methods for challenging datasets.*
+
+3.  **Brantner CL.** March 10, 2024. Combining trials to estimate heterogeneous treatment effects in a target sample. Eastern North American Region (ENAR) International Biometrics Society. *Part of invited session (organizer: **Brantner CL**): Integrating Data from Multiple Sources to Estimate Causal Effects.*
+
+4.  **Brantner CL.** February 23, 2024. Data integration approaches to estimate heterogeneous treatment effects. Invited presentation for Johns Hopkins Biostatistics Prospective PhD Student Visit Day.
+
+5.  **Lupton-Smith C.** January 24, 2022. Family caregiving subtypes and well-being in the Caregiving Transitions Study: A latent class analysis. Research in Progress presentation for Epidemiology and Biostatistics of Aging Training Group.
+
+6.  **Lupton-Smith C**. October 8, 2021. Factors associated with county-level mental health during the COVID-19 pandemic. Invited presentation for Johns Hopkins Biostatistics Virtual Prospective Student Event.
+
+## Contributed Presentations
+
+1.  **Brantner CL.** March 22, 2023. Combining datasets to estimate heterogeneous treatment effects. Eastern North American Region (ENAR) International Biometrics Society.
+
+2.  **Brantner CL.** December 18, 2022.Combining datasets to estimate heterogeneous treatment effects. International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022).
+
+3.  **Lupton-Smith C.,** Badillo Goicoechea E, Chang T, Stuart EA. October 7, 2021. Factors associated with county-level mental health during the COVID-19 pandemic. Women in Statistics and Data Science Conference.
+
+## Podcasts
+
+1.  **Brantner CL.** May 30, 2022. School Reopening Analysis. *Data Skeptic.* [https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis](#0){.uri}.
+
+## Poster Presentations
+
+1.  Ettman CK, Ringlein GV, Straub JL, Dohlman P, **Brantner CL,** Chin E, Badillo Goicoechea E, Sthapit S, Goes FS, Stuart EA, Zandi PP. (2024) Trends in the Use of Telehealth by Area Deprivation in a Large U.S. Academic Hospital. *Society for Epidemiologic Research Annual Meeting.\
+    * **\*Recipient of Best Poster Award**
+
+2.  **Brantner CL.** (2023). Combining datasets to estimate heterogeneous treatment effects. *American Causal Inference Conference.*
+
+3.  Ettman CK, **Brantner CL,** Albert M, et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. *Society for Epidemiologic Research.*
+
+4.  Ettman CK, **Brantner CL,** Albert M, et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. *AcademyHealth.*
+
+5.  Ettman CK, **Brantner CL,** Albert M, et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. *International Association for Population Health Sciences.*
+
+6.  Bentley J, **Lupton-Smith C,** Roth D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. *Gerontological Society of America.*
+
+7.  Chang T, **Lupton-Smith C,** Badillo Goicoechea E, Stuart EA (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. *American Psychopathological Association.*
+
+8.  McLaughlin JE, **Lupton-Smith C,** Bell EL, Hubal R, Persky A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. *American Association of Colleges of Pharmacy.* **\
+    \*Recipient of AACP SAS Best Poster Award.**

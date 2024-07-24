@@ -1,0 +1,34 @@
+---
+title: "Teaching"
+---
+
+I have experience as a teaching assistant for graduate and undergraduate students. I am passionate about conveying statistical techniques to audiences with a variety of backgrounds. I like to emphasize application and collaboration when teaching new concepts.
+
+## Graduate Courses
+
+### Statistical Methods in Public Health I/II
+
+**Lead Teaching Assistant,** Fall 2022 and Fall 2023\
+**Teaching Assistant,** Fall 2021**\
+**Johns Hopkins Bloomberg School of Public Health*\
+*Instructors: Dr. Marie Diener-West and Dr. Karen Bandeen-Roche
+
+*Course description:* Introduces the basic concepts and methods of statistics as applied to diverse problems in public health and medicine. Demonstrates methods of exploring, organizing, and presenting data, and introduces fundamentals of probability, including probability distributions and conditional probability, with applications to 2x2 tables. Presents the foundations of statistical inference, including concepts of population, sample parameter, and estimate; and approaches to inferences using the likelihood function, confidence intervals, and hypothesis tests. Introduces and employs the statistical computing package, STATA or R, to manipulate data and prepare students for remaining course work in this sequence.
+
+### Causal Inference in Medicine and Public Health I
+
+**Teaching Assistant,** Spring 2022 and Spring 2023**\
+**Johns Hopkins Bloomberg School of Public Health*\
+*Instructor: Dr. Elizabeth Stuart
+
+*Course description:* Presents an overview of methods for estimating causal effects: how to answer the question of "What is the effect of A on B?" Includes discussion of randomized designs, but with more emphasis on alternative designs for when randomization is infeasible: matching methods, propensity scores, regression discontinuity, and instrumental variables. Motivates methods by examples from the health sciences, particularly mental health and community or school-level interventions.
+
+## Undergraduate Courses
+
+### Leading Teams
+
+**Course Assistant,** Fall 2018 - Spring 2020\
+Johns Hopkins University\
+Instructor: Dr. William Smedick
+
+*Course description:* This course will allow students to develop the analytical skills needed to effectively lead and work in teams. Students will learn tools and techniques for problem solving, decision-making, conflict resolution, task management, communications, and goal alignment in team settings. They will also learn how to measure team dynamics and performance, and assess methods for building and sustaining high-performance teams. Students will also explore their own leadership, personality and cognitive styles and learn how these may affect their performance in a team. The course will focus on team-based experiential projects and exercises as well as provide opportunities to individually reflect and write about the concepts explored and skills gained throughout the course.

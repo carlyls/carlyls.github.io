@@ -1,0 +1,41 @@
+---
+title: "Carly L. Brantner"
+image: carlybrantner-headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/carly-lupton-brantner/
+    - icon: twitter
+      href: https://twitter.com/CarlyLBrantner
+    - icon: newspaper
+      href: https://scholar.google.com/citations?user=QcQZFXcAAAAJ&hl=en
+    - icon: github
+      href: https://github.com/carlyls
+    - icon: envelope
+      href: mailto:carly.brantner@duke.edu
+---
+
+# About Me
+
+I am an Assistant Professor in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) and the [Duke Clinical Research Institute (DCRI)](https://dcri.org/) at Duke University. I graduated in the spring of 2024 with my PhD in Biostatistics from the Johns Hopkins Bloomberg School of Public Health, advised by [Dr. Elizabeth Stuart](https://www.elizabethstuart.org/). I am a methodological and applied biostatistician - my methods focuses are primarily causal inference, treatment effect heterogeneity, data integration/fusion, and machine learning, and my applied interests include women's health, mental health, sport science, and aging.
+
+------------------------------------------------------------------------
+
+# Education
+
+**PhD in Biostatistics\
+***Johns Hopkins Bloomberg School of Public Health*\
+Graduation: May 2024\
+Dissertation: Data Integration Approaches to Estimate Heterogeneous Treatment Effects\
+Advisor: Dr. Elizabeth A. Stuart
+
+**MS in Applied Mathematics & Statistics\
+***Johns Hopkins University*\
+Graduation: May 2020
+
+**BS in Applied Mathematics & Statistics\
+***Johns Hopkins University*\
+Graduation: May 2020

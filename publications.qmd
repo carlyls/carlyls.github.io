@@ -1,0 +1,52 @@
+---
+title: "Publications"
+editor: visual
+---
+
+## Heterogeneous Treatment Effect Estimation
+
+-   **Brantner CL,** Chang TH, Nguyen TQ, Hong H, Stefano LD, Stuart EA. Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity. *Stat Sci.* 2023 Nov;38(4):640-654. <https://doi.org/10.1214/23-sts890>. Epub 2023 Nov 6. PMID: 38638306; PMCID: PMC11025720.
+
+-   **Brantner CL,** Nguyen TQ, Tang T, Zhao C, Hong H, Stuart EA. Comparison of methods that combine multiple randomized trials to estimate heterogeneous treatment effects. *Stat Med.* 2024 Mar 30;43(7):1291-1314. <https://doi.org/10.1002/sim.9955>. Epub 2024 Jan 25. PMID: 38273647; PMCID: PMC11086055.\
+    [**Code**](#0)
+
+## Female Health and Performance
+
+-   McNulty KL, Taim BC, Freemas JA, Hassan A, **Brantner CL**, Oleka CT, Scott D, Howatson G, Moore IS, Yung KK, Hicks KM, Whalan M, Lovell R, Moore SR, Russell S, Smith-Ryan AE, Bruinvels G. Research across the female lifecycle: Reframing the narrative for health and performance in athletic females and showcasing solutions to drive advancements in research and its translation. *Women in Sport and Physical Activity Journal.* In press.
+
+## Mental Health Analyses
+
+-   Ettman CK, **Brantner CL,** Albert M, Goes FS, Mojtabai R, Spivak S, Stuart EA, Zandi PP. Trends in Telepsychiatry and In-Person Psychiatric Care for Depression in an Academic Health System, 2017-2022. *Psychiatr Serv.* 2024 Feb 1;75(2):178-181. <https://doi.org/10.1176/appi.ps.20230064>. Epub 2023 Aug 9. PMID: 37554006; PMCID: PMC10862532.
+
+-   **Lupton-Smith C,** Stuart EA, McGinty EE, Dalcin AT, Jerome GJ, Wang NY, Daumit GL. Determining Predictors of Weight Loss in a Behavioral Intervention: A Case Study in the Use of Lasso Regression. Front Psychiatry. 2022 Feb 3;12:707707. <https://doi.org/10.3389/fpsyt.2021.707707>. PMID: 35185628; PMCID: PMC8850776.
+
+## COVID-19 Projects
+
+-   **Lupton-Smith C,** Goicoechea EB, Collins M, Lessler J, Grabowski MK, Stuart EA. Consistency between Household and County Measures of Onsite Schooling during the COVID-19 Pandemic. *J Res Educ Eff.* 2023;16(3):419-441. <https://doi.org/10.1080/19345747.2022.2131660>. Epub 2022 Nov 1. PMID: 37605777; PMCID: PMC10441621. \
+    [**Code**](https://github.com/carlyls/covid19_schooldata)
+
+-   **Lupton-Smith C,** Badillo-Goicochea E, Chang TH, Maniates H, Riehm KE, Schmid I, Stuart EA. Factors associated with county-level mental health during the COVID-19 pandemic. *J Community Psychol.* 2022 Jul;50(5):2431-2442. <https://doi.org/10.1002/jcop.22785>. Epub 2021 Dec 30. PMID: 34969152; PMCID: PMC9015572.
+
+-   Riehm, KE, Badillo-Goicoechea E, Wang FM, Kim E, Aldridge LR, **Lupton-Smith C,** Presskreischer R, Chang TH, LaRocca S, Kreuter F, Stuart EA. Association of Non-Pharmaceutical Interventions to Reduce the Spread of SARS-CoV-2 With Anxiety and Depressive Symptoms: A Multi-National Study of 43 Countries. *Int J Public Health.* 2022 Mar 3;67:1604430. <https://doi.org/10.3389/ijph.2022.1604430>. PMID: 35308051; PMCID: PMC8927027.
+
+-   Lessler J, Grabowski MK, Grantz KH, Badillo-Goicoechea E, Metcalf CJE, **Lupton-Smith C,** Azman AS, Stuart EA. Household COVID-19 risk and in-person schooling. *Science*. 2021 Jun 4;372(6546):1092-1097. <https://doi.org/10.1126/science.abh2939>. Epub 2021 Apr 29. PMID: 33927057; PMCID: PMC8168618.
+
+## Other Substantive Projects
+
+-   Nguyen TQ, Roberts Lavigne LC, **Brantner CL,** Kirk GD, Mehta SH, Linton SL. Estimation of place-based vulnerability scores for HIV viral non-suppression: an application leveraging data from a cohort of people with histories of using drugs. *BMC Med Res Methodol.* 2024 Jan 25;24(1):21. <https://doi.org/10.1186/s12874-023-02133-x>. PMID: 38273277; PMCID: PMC10809603.
+
+-   **Brantner CL,** Bentley JP, Roth DL. Subtypes of transitions into a family caregiving role: A latent class analysis. *J Appl Gerontol.* 2024 Apr;43(4):374-385. <https://doi.org/10.1177/07334648231210680>. Epub 2023 Nov 21. PMID: 37990505; PMCID: PMC10923009.
+
+-   Olsen AA, **Brantner CL,** Dallaghan GLB, McLaughlin JE. A review of interprofessional education research: Disciplines, authorship practices, research design, and dissemination trends. *Journal of Interprof Educ Prac.* 2023 May 16;32:100653. <https://doi.org/10.1016/j.xjep.2023.100653>
+
+-   Fuller K, **Lupton-Smith C,** Hubal R, McLaughlin JE. Automated Analysis of Preceptor Comments: A Pilot Study Using Sentiment Analysis to Identify Potential Student Issues in Experiential Education. *Am J Pharm Educ.* 2023 Sep;87(9):100005. <https://doi.org/10.1016/j.ajpe.2023.02.005>. Epub 2023 Mar 15. PMID: 37714650.
+
+-   McLaughlin JE, Lyons K, **Lupton-Smith C**, Fuller K. An introduction to text analytics for educators. *Curr Pharm Teach Learn.* 2022 Oct;14(10):1319-1325. <https://doi.org/10.1016/j.cptl.2022.09.005>. Epub 2022 Sep 15. PMID: 36280557; PMCID: PMC9904956.
+
+-   Olsen AA, **Lupton-Smith C,** Rodgers PT, McLaughlin JE. Characterizing Research About Interprofessional Education Within Pharmacy. *Am J Pharm Educ.* 2021 Sep;85(8):8541. <https://doi.org/10.5688/ajpe8541>. Epub 2021 Mar 12. PMID: 34615627; PMCID: PMC8500280.
+
+-   Wolcott MD, Lupton-Smith C, Cox WC, McLaughlin JE. A Five-Minute Situational Judgment Test to Assess Empathy in First-Year Student Pharmacists. *Am J Pharm Educ.* 2019 Aug;83(6):6960. <https://doi.org/10.5688/ajpe6960>. PMID: 31507291; PMCID: PMC6718496.
+
+-   McLaughlin JE, **Lupton-Smith C,** Wolcott MD. Text mining as a method for examining the alignment between educational outcomes and the workforce needs. *Educ Health Prof. 2018 Jan;1*(2):55-60. <https://doi.org/10.4103/EHP.EHP_25_18>.
+
+## 
